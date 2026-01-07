@@ -32,7 +32,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-cd "WhatBytes backend assignment"
+cd "HealthCare"
 ```
 
 ### 2. Create Virtual Environment
